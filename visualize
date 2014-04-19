@@ -9,6 +9,7 @@ hint.fm/
 find free pic: http://anchr.tw/?p=447
 
 tools:
+  google public data explorer: https://www.google.com/publicdata/directory
   circular visualization: http://circos.ca/
   http://processing.org/
     http://openprocessing.org/
@@ -16,6 +17,8 @@ tools:
     a mit tool for visualization
   http://app.raw.densitydesign.org/
     visualize data online with few clicks
+  keen.io
+    custom analytics shouldn't be a pain in the backend
 
 malofiej awards
   http://visualjournalism.com/
