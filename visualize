@@ -9,6 +9,8 @@ hint.fm/
 find free pic: http://anchr.tw/?p=447
 
 tools:
+  online shp viewer: http://lsi.iiit.ac.in/lsi/lsiviewer/#
+  qgis is also good for offline
   google public data explorer: https://www.google.com/publicdata/directory
   circular visualization: http://circos.ca/
   http://processing.org/
@@ -19,6 +21,8 @@ tools:
     visualize data online with few clicks
   keen.io
     custom analytics shouldn't be a pain in the backend
+  clara.io
+    3d modeling / rendering app 
 
 malofiej awards
   http://visualjournalism.com/
@@ -54,6 +58,7 @@ icon of the web: http://nmap.org/favicon/
 slideshare: http://www.slideshare.net/most-liked/media/infographics/all-time
 
 news website:
+  http://www.bloomberg.com/visual-data
   http://djchina.org/ # mainland china
   http://www.cw.com.tw/PicChannelPage/chart_channel.jsp
   http://vizynary.com/  : data journalism
@@ -67,6 +72,8 @@ news website:
   http://www.aljazeera.com/
   http://www.catalogtree.net/projects/2009
   http://jplusplus.org
+  http://datajournalism.ntu.edu.tw/ - 臺大新聞視覺化
+  http://www.nytimes.com/newsgraphics/2013/12/30/year-in-interactive-storytelling/ - 紐約時報多媒體全版式新聞報導
 
 book:
   A Practical Guide to Graphics Reporting: Information Graphics for Print, Web & Broadcast
@@ -92,3 +99,13 @@ book to be reviewed:
 deals for designer: http://www.mightydeals.com/
   http://www.mightydeals.com/deal/ingimage-infographics.html
 
+related website:
+  piktochart.com
+  stats.stackexchange.com - Q/A site for statistics, ml, data analytsis, visualization
+  flowingdata.com
+  vizwiz.blogspot.tw - data visualization done right
+  
+
+3D
+  (part of ) x3d node spec
+  http://www.bitmanagement.com/developer/spec/x3d/html/nodes.html#Material
