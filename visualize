@@ -9,6 +9,7 @@ hint.fm/
 find free pic: http://anchr.tw/?p=447
 
 tools:
+  amcharts: amcharts.com
   prefuse: http://bid.berkeley.edu/papers/chi_2005/prefuse/
     check this post: http://stackoverflow.com/questions/16773479/any-good-tools-to-make-3d-data-visualizations-for-big-data
   online shp viewer: http://lsi.iiit.ac.in/lsi/lsiviewer/#
@@ -107,6 +108,9 @@ individual works
   earth wind
     http://earth.nullschool.net/#current/wind/surface/level/orthographic=-140.47,70.53,825
     https://github.com/Esri/wind-js
+  酷皮, coolpics 股市視覺化
+    http://www.coolpics.com.tw/charts/priceByVolume/#!/2454/2014-06-16
+    founder 的公司 https://www.nvesto.com/
 
 amazing background effect. also a very powerful infographics website
   https://www.canva.com/ (but not for infographics)
