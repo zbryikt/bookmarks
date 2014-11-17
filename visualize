@@ -30,6 +30,8 @@ tools:
     3d modeling / rendering app 
   d3plus
     http://d3plus.org/
+  metricsgraphics - built upon d3js
+    http://metricsgraphicsjs.org/
   resume visualization
     http://vizualize.me/
   chart.js
