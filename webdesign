@@ -17,3 +17,6 @@ map / gis related
   mapbox : https://www.mapbox.com/
   turfjs : http://turfjs.org/
   geojson-vt : https://github.com/mapbox/geojson-vt
+
+http://mailcatcher.me/
+  送信 email catch smtpserver 轉成網頁顯示內容, recipient, sender
